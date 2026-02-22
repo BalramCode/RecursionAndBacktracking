@@ -55,6 +55,7 @@ bool solve(int i, /* state */) {
     return false;
 }
 
+
 // 🧠 How to Identify Which Template to Use
 
 // 🟢 If question says
@@ -72,7 +73,5 @@ bool solve(int i, /* state */) {
 
 
 // ⚡ Ultimate Cheat Formula
-
 // 👉 Recursion = Smaller version of same problem
-
 // 👉 Backtracking = Try → Explore → Undo
